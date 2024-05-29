@@ -1,0 +1,19 @@
+postgres pgadmin aplicacion gratuita
+
+usuario: postgres
+contraseña: quiroga1020
+pgadmin
+
+paso 1 instalar 
+npm init --y /--crea el arcivo de inicio de proyecto
+
+npm i // inicia el node modules 
+npm i express express-handlebars morgan (mysql2) o (pg) /--inicia extensiones 
+
+npm start
+
+paso 2 crear 
+iniciar el git 
+crear git ignore archivo node_modules - src y vercel.json y index.js
+
+creamos api.js 

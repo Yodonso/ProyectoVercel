@@ -15,3 +15,8 @@ iniciar el git
 crear git ignore archivo node_modules - src y vercel.json Ingresar codigo y index.js
 
 creamos api.js ingresamos codigo
+
+para bajar el servidor (control+c)
+para subir el servidor (npm start)
+
+https://github.com/cdgalvis/ProyectoVercel/blob/master/src/views/general/company.hbs

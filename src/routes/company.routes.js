@@ -1,8 +1,9 @@
 import { Router } from 'express'
-const router = Router()
+const router = Router();
 
-router.get('/company', (request, response) => {
-    response.render('general/company')
-})
+router.get("/company", (req, res) => {
+    res.render('general/company')
+});
 
-export default router
+
+export default router;
